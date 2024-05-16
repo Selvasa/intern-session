@@ -1,0 +1,7 @@
+.form-outline-true:focus {
+    box-shadow: 0 0 0 1px rgba(13,110,253,.25) !important;
+}
+.form-outline-false {
+    box-shadow: 0 0 0 1px red !important;
+    border-color: tomato ;
+}
